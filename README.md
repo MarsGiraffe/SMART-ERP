@@ -22,4 +22,7 @@
   <img src="https://img.shields.io/badge/SVN-809CC9?style=flat&logo=Subversion&logoColor=FFFFFF"/>
 </p>
 <h2>📚 ERD</h2>
-<img width="80%" src="https://github.com/MarsGiraffe/SMART-ERP/assets/139114497/1fd8c7c5-5852-481e-98f6-cf05e9081ca6"/>
+<h4></h4>
+<img width="80%" src="https://github.com/MarsGiraffe/SMART-ERP/assets/139114497/b100696c-fdbb-4b79-a6be-93ab8f068998"/>
+<br>
+<img width="80%" src="https://github.com/MarsGiraffe/SMART-ERP/assets/139114497/f16fa309-4cfa-448b-9b84-066a0f7c42f6"/>
