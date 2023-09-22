@@ -8,6 +8,7 @@
   <img src="https://img.shields.io/badge/SPRING BOOT-green?style=flat&logo=Spring Boot&logoColor=FFFFFF"/>
   <img src="https://img.shields.io/badge/SPRING SECURITY-green?style=flat&logo=Spring Security&logoColor=FFFFFF"/>
   <img src="https://img.shields.io/badge/HTML5-red?style=flat&logo=HTML5&logoColor=FFFFFF"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=CSS3&logoColor=FFFFFF"/>
   <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=Bootstrap&logoColor=FFFFFF"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=FFFFFF"/>
   <img src="https://img.shields.io/badge/jQuery-0769AD?style=flat&logo=jQuery&logoColor=FFFFFF"/>
