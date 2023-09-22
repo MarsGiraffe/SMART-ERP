@@ -3,7 +3,7 @@
 <br>
 <h2>Platforms & Languages</h2>
 <p>
-  <img src="https://img.shields.io/badge/JAVA-#FF160B?style=flat"/>
+  <img src="https://img.shields.io/badge/JAVA-FF160B?style=flat"/>
   <img src="https://img.shields.io/badge/SPRING-green?style=flat&logo=Spring&logoColor=FFFFFF"/>
   <img src="https://img.shields.io/badge/SPRING BOOT-green?style=flat&logo=Spring Boot&logoColor=FFFFFF"/>
   <img src="https://img.shields.io/badge/SPRING SECURITY-green?style=flat&logo=Spring Security&logoColor=FFFFFF"/>
