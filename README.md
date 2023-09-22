@@ -21,3 +21,5 @@
   <img src="https://img.shields.io/badge/Tomcat-F8DC75?style=flat&logo=Apache Tomcat&logoColor=FFFFFF"/>
   <img src="https://img.shields.io/badge/SVN-809CC9?style=flat&logo=Subversion&logoColor=FFFFFF"/>
 </p>
+<h2>📚 ERD</h2>
+  <img width="80%" src="https://github.com/MarsGiraffe/SMART-ERP/assets/139114497/1fd8c7c5-5852-481e-98f6-cf05e9081ca6"/>
