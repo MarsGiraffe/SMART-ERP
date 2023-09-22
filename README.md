@@ -1,7 +1,7 @@
 # SMART-ERP
 신발 판매 회사를 대상으로 한 ERP 서비스
 <br>
-<h2>Platforms & Languages</h2>
+<h2>✨ Platforms & Languages</h2>
 <p>
   <img src="https://img.shields.io/badge/JAVA-13C100?style=flat"/>
   <img src="https://img.shields.io/badge/SPRING-green?style=flat&logo=Spring&logoColor=FFFFFF"/>
@@ -15,10 +15,9 @@
   <img src="https://img.shields.io/badge/ORACLE-F80000?style=flat&logo=ORACLE&logoColor=FFFFFF"/>
   <img src="https://img.shields.io/badge/Mybatis-000000?style=flat&logo=LaTeX&logoColor=FFFFFF"/>
 </p>
-<h2>Tools</h2>
+<h2>🛠 Tools</h2>
 <p>
   <img src="https://img.shields.io/badge/Eclipse IDE-2C2255?style=flat&logo=Eclipse IDE&logoColor=FFFFFF"/>
-  <img src="https://img.shields.io/badge/Eclipse IDE-2C2255?style=flat&logo=Eclipse IDE&logoColor=FFFFFF"/>
   <img src="https://img.shields.io/badge/Tomcat-F8DC75?style=flat&logo=Apache Tomcat&logoColor=FFFFFF"/>
-  
+  <img src="https://img.shields.io/badge/SVN-2C2255?style=flat&logo=SVN&logoColor=FFFFFF"/>
 </p>
