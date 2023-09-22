@@ -13,11 +13,11 @@
   <img src="https://img.shields.io/badge/jQuery-0769AD?style=flat&logo=jQuery&logoColor=FFFFFF"/>
   <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=Vue.js&logoColor=FFFFFF"/>
   <img src="https://img.shields.io/badge/ORACLE-F80000?style=flat&logo=ORACLE&logoColor=FFFFFF"/>
-  <img src="https://img.shields.io/badge/Mybatis-000000?style=flat&logo=LaTeX&logoColor=FFFFFF"/>
+  <img src="https://img.shields.io/badge/Mybatis-000000?style=flat&logo=Fluentd&logoColor=FFFFFF"/>
 </p>
 <h2>🛠 Tools</h2>
 <p>
   <img src="https://img.shields.io/badge/Eclipse IDE-2C2255?style=flat&logo=Eclipse IDE&logoColor=FFFFFF"/>
   <img src="https://img.shields.io/badge/Tomcat-F8DC75?style=flat&logo=Apache Tomcat&logoColor=FFFFFF"/>
-  <img src="https://img.shields.io/badge/SVN-2C2255?style=flat&logo=SVN&logoColor=FFFFFF"/>
+  <img src="https://img.shields.io/badge/SVN-809CC9?style=flat&logo=Subversion&logoColor=FFFFFF"/>
 </p>
