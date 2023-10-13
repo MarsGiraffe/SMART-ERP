@@ -1,5 +1,6 @@
 # SMART-ERP
 신발 판매 회사를 대상으로 한 ERP 서비스
+<a href="https://drive.google.com/drive/my-drive">📽시연 영상</a>
 <br>
 <h2>✨ Platforms & Languages</h2>
 <p>
